@@ -78,6 +78,12 @@ The full process is documented in the [methodology report](reports/methodology.p
 | Premium areas | Tribeca, Battery Park City and Flatiron District have the highest average prices among neighbourhoods with a meaningful number of listings. |
 | Engagement | Listings with high total reviews but low monthly reviews signal guest engagement that has dropped off over time. |
 
+## ⚠️ Scope & Limitations
+
+- The data is a **2019 snapshot**, so prices and demand predate the pandemic recovery the business problem refers to.
+- Average prices for small neighbourhoods (for example, Tribeca at 177 listings) rest on few listings and can be skewed by a handful of very expensive ones, so they should be read alongside listing counts.
+- Review counts are a proxy for guest activity, not bookings.
+
 ## ✅ Recommendations
 
 1. **Acquire more entire homes in high-demand areas.** They command the highest prices, and demand is concentrated in Manhattan and Brooklyn.
